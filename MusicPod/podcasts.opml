@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Podcasts</title>
+  </head>
+  <body>
+    <outline text="Podcasts" title="Podcasts" type="rss">
+      <outline text="www. einfachdeutschlernen.com" title="Deutsch lernen durch Hören" type="rss" xmlUrl="https://anchor.fm/s/fee008e0/podcast/rss"/>
+      <outline text="Deutschlandfunk Kultur" title="Im Gespräch" type="rss" xmlUrl="https://www.deutschlandfunkkultur.de/podcast-im-gespraech-100.xml"/>
+      <outline text="Deutschlandfunk Kultur" title="Lange Nacht" type="rss" xmlUrl="https://www.deutschlandfunkkultur.de/lange-nacht-106.xml"/>
+      <outline text="Deutschlandfunk Kultur" title="Plus Eins" type="rss" xmlUrl="https://www.deutschlandfunkkultur.de/plus-eins-102.xml"/>
+      <outline text="Deutsch lernen durch Hören" title="Nachrichten für Deutschlernende" type="rss" xmlUrl="https://anchor.fm/s/1022b96e0/podcast/rss"/>
+      <outline text="Flora" title="einfach Deutsch" type="rss" xmlUrl="https://anchor.fm/s/10754c268/podcast/rss"/>
+      <outline text="Coffee Break Languages" title="Coffee Break German" type="rss" xmlUrl="https://feeds.acast.com/public/shows/0c3c53a1-180f-435a-9453-cec3883b4ada"/>
+      <outline text="expertlygerman.com" title="Learn German | Deutsch lernen | ExpertlyGerman Podcast" type="rss" xmlUrl="https://anchor.fm/s/2a5bbf9c/podcast/rss"/>
+      <outline text="Linguistica 360" title="News in Slow German (Intermediate)" type="rss" xmlUrl="https://rss.libsyn.com/shows/85667/destinations/412792.xml"/>
+      <outline text="Coffee Break Languages" title="Coffee Break German Advanced" type="rss" xmlUrl="https://feeds.acast.com/public/shows/coffee-break-german-advanced"/>
+      <outline text="Linguistica 360" title="German for Beginners" type="rss" xmlUrl="https://rss.libsyn.com/shows/560775/destinations/4845350.xml"/>
+      <outline text="GermanWithMax.com" title="Learn German with Max through dialogues and stories | Deutsch lernen mit Geschichten" type="rss" xmlUrl="https://germanwithmax.com/podcast.xml"/>
+      <outline text="Sascha Schmidt" title="Deutsch mit Schmidt | Advanced German Language Learning Podcast ( B1 / B2 / C1 / C2 )" type="rss" xmlUrl="https://6byima.podcaster.de/deutschmitschmidt.rss"/>
+      <outline text="Deutschlandfunk" title="Marktplatz" type="rss" xmlUrl="https://www.deutschlandfunk.de/marktplatz-102.xml"/>
+      <outline text="Babbel" title="Speaking of Berlin" type="rss" xmlUrl="https://www.spreaker.com/show/4675069/episodes/feed"/>
+      <outline text="Annik Rubens" title="Slow German" type="rss" xmlUrl="https://slowgerman.com/feed/podcast/?redirect=no"/>
+      <outline text="Teja D." title="Slow German listening experience" type="rss" xmlUrl="https://podcast382789.podigee.io/feed/mp3"/>
+      <outline text="argon podcast" title="einfach ganz leben" type="rss" xmlUrl="https://feeds.acast.com/public/shows/64abf991cf279000110a5150"/>
+      <outline text="Norman Brenner" title="Vernünftig LEBEN Podcast" type="rss" xmlUrl="https://feeds.feedburner.com/vernuenftig-leben-audiobeitraege"/>
+      <outline text="Michael Bossetta" title="Social Media and Politics" type="rss" xmlUrl="https://feeds.simplecast.com/kFf3a1TM"/>
+      <outline text="Larchmont Productions" title="Politics on the Couch" type="rss" xmlUrl="https://feeds.acast.com/public/shows/6462652801a21a001146cc01"/>
+      <outline text="Center for Strategic and International Studies" title="Pekingology" type="rss" xmlUrl="https://feeds.megaphone.fm/pekingology"/>
+      <outline text="Jack Rhysider" title="Darknet Diaries" type="rss" xmlUrl="https://podcast.darknetdiaries.com"/>
+      <outline text="DW" title="Langsam Gesprochene Nachrichten | Audios | DW Deutsch lernen" type="rss" xmlUrl="https://rss.dw.com/xml/DKpodcast_lgn_de"/>
+      <outline text="DER SPIEGEL" title="Smarter leben" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/895a9f0b-6d87-4d20-aaba-abc000ffb087/913ea7fc-e0c6-4ba8-8360-abc000ffb08c/podcast.rss"/>
+      <outline text="Johnny" title="Wissen mit Johnny" type="rss" xmlUrl="https://anchor.fm/s/f8b3e284/podcast/rss"/>
+    </outline>
+  </body>
+</opml>
