@@ -1,0 +1,43 @@
+# List of Installed Applications
+
+- **[7Zip](https://7-zip.org/)**
+- **[AIMP](https://www.aimp.ru/)**
+- **[App Flowy](https://appflowy.com/)**
+- **[Auto Hot Key](https://www.autohotkey.com/)**
+- **[Battery Mode](https://en.bmode.tarcode.ru/)**
+- **[Bitwarden](https://bitwarden.com/)**
+- **[Chromium (Ungoogled)](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)** and **[GitHub Repo](https://github.com/ungoogled-software/ungoogled-chromium)**
+- **[Classic Paint](https://winaero.com/windows-10-classic-paint-for-windows-11/)**
+- **[CPUID HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)**
+- **[Everything](https://www.voidtools.com/)**
+- **[ExifCleaner](https://github.com/szTheory/exifcleaner)**
+- **[FastStone Capture](https://www.faststone.org/index.htm)**
+- **[FXSound](https://www.fxsound.com/)**
+- **[Flameshot](https://flameshot.org/)**
+- **[Heidi SQL](https://www.heidisql.com/)**
+- **[KDE Connect](https://kdeconnect.kde.org/download.html)**
+- **[Lightbulb](https://github.com/Tyrrrz/LightBulb)**
+- **[Musicpod](https://github.com/ubuntu-flutter-community/musicpod)**
+- **[mySQL Connectors](https://www.mysql.com/products/connector/)**
+- **[MySQL Server](https://www.mysql.com/)**
+- **[Notepad++](https://notepad-plus-plus.org/)**
+- **[OnlyR](https://github.com/AntonyCorbett/OnlyR)**
+- **[Open Hash Tab](https://github.com/namazso/OpenHashTab)**
+- **[PDF Gear](https://www.pdfgear.com/)**
+- **[Picocrypt](https://github.com/Picocrypt/Picocrypt)**
+- **[Power Toys](https://github.com/microsoft/PowerToys)**
+- **[Quick Look](https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=en-US&gl=US)**
+- **[Simplenote](https://simplenote.com/)**
+- **[SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/)**
+- **[SuperF4](https://stefansundin.github.io/superf4/)**
+- **[Transmission](https://transmissionbt.com/)**
+- **[VLC Media Player](https://www.videolan.org/)**
+- **[WinAeroTweaker](https://winaerotweaker.com/)**
+- **[XnViewMP](https://www.xnview.com/en/xnview-mp/)**
+- **[Translucent TB](https://github.com/TranslucentTB/TranslucentTB)**
+- **[Xournal++](https://xournalpp.github.io/)**
+- **[VLC Media Player](https://www.videolan.org/vlc/)**
+- **[VSCodium](https://vscodium.com/)**
+- **[Winaero Tweaker](https://winaerotweaker.com/)**
+- **[XnView MP](https://www.xnview.com/en/xnview/)**
+- **[Xournal++](https://xournalpp.github.io/)**
