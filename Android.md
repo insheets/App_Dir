@@ -1,0 +1,35 @@
+# Installed Android Applications 
+
+- **[3000 Chords](https://play.google.com/store/apps/details?id=com.pocketutilities.a3000chords&hl=en_US)**
+- **[Amaze File Manager](https://f-droid.org/packages/com.amaze.filemanager/)**
+- **[AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)**
+- **[Apk Analyzer](https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer&hl=en_US)**
+- **[APK Extractor](https://github.com/Domilopment/apk-extractor)**
+- **[Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)**
+- **[Camera Date Folders](https://f-droid.org/en/packages/de.kromke.andreas.cameradatefolders/)**
+- **[ConnectIPS](https://play.google.com/store/apps/details?id=com.infodev.nchl_android&hl=en_US)**
+- **[DeepL](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator&hl=en_US)**
+- **[Der Die Das](https://play.google.com/store/apps/details?id=com.lubosmikusiak.articuli.derdiedas&hl=en_US)**
+- **[dict.cc plus](https://liteapks.com/dict-cc-plus.html)**
+- **[Dove Icon Pack](https://liteapks.com/dove-icon-pack.html)**
+- **[Equalizer](https://liteapks.com/flat-equalizer-2.html)**
+- **[F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)**
+- **[GuitarTuner](https://play.google.com/store/apps/details?id=com.ovelin.guitartuna&hl=en_US)**
+- **[KDE Connect](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)**
+- **[mAuth](https://f-droid.org/en/packages/com.xinto.mauth/)**
+- **[MockGPS](https://github.com/lilstiffy/MockGps)**
+- **[mucke](https://f-droid.org/en/packages/rocks.mucke/)**
+- **[NagarikApp](https://play.google.com/store/apps/details?id=com.yajtech.nagarikapp&hl=en_US)**
+- **[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)**
+- **[OpenBoard](https://play.google.com/store/apps/details?id=com.softwarevalencia.openboard.inputmethod.latin&hl=en_US)**
+- **[Pathao](https://play.google.com/store/apps/details?id=com.pathao.user&hl=en_US)**
+- **[Pinterest](https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US)**
+- **[PipePipe](https://f-droid.org/en/packages/InfinityLoop1309.NewPipeEnhanced/)**
+- **[Pix MaterialExpressive](https://liteapks.com/pix-material-expressive-icons.html)**
+- **[Plain App](https://f-droid.org/en/packages/com.ismartcoding.plain/)**
+- **[Seal App](https://f-droid.org/packages/com.junkfood.seal/)**
+- **[Simplenote](https://play.google.com/store/apps/details?id=com.automattic.simplenote&hl=en_US)**
+- **[Soundcorset tuner & metronome](https://liteapks.com/tuner-metronome.html)**
+- **[Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)**
+- **[VLC](https://f-droid.org/en/packages/org.videolan.vlc/)**
+- **[WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_US)**
